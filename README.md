@@ -13,11 +13,17 @@ I will later host this app as I am currently facing a few problems with regards 
 # Screenshots of the app:-
 <p><b>Landing Page</b></p>
 <img src="./ss/s_1.png" alt="pic1" />
+<p><b>Login Page</b></p>
 <img src="./ss/s_2.png" alt="pic2" />
+<p><b>Shopping Basket</b></p>
 <img src="./ss/s_3.png" alt="pic3" />
+<p><b>Delivery Details - 1</b></p>
 <img src="./ss/s_4.png" alt="pic4" />
+<p><b>Delivery Details - 2</b></p>
 <img src="./ss/s_5.png" alt="pic5" />
+<p><b>Orders - 1</b></p>
 <img src="./ss/s_6.png" alt="pic6" />
+<p><b>Orders - 2</b></p>
 <img src="./ss/s_7.png" alt="pic7" />
 
 # Getting Started with Create React App
