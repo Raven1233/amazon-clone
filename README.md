@@ -10,6 +10,14 @@ This is an Amazon clone that was developed using React, Express and Firebase(for
 
 I will later host this app as I am currently facing a few problems with regards to hosting.
 
+### Screenshots of the app:-
+<img src="./ss/s_1.png" alt="pic1" />
+<img src="./ss/s_2.png" alt="pic2" />
+<img src="./ss/s_3.png" alt="pic3" />
+<img src="./ss/s_4.png" alt="pic4" />
+<img src="./ss/s_5.png" alt="pic5" />
+<img src="./ss/s_6.png" alt="pic6" />
+<img src="./ss/s_7.png" alt="pic7" />
 
 # Getting Started with Create React App
 
