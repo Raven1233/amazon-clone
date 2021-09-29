@@ -10,7 +10,8 @@ This is an Amazon clone that was developed using React, Express and Firebase(for
 
 I will later host this app as I am currently facing a few problems with regards to hosting.
 
-### Screenshots of the app:-
+# Screenshots of the app:-
+<p><b>Landing Page</b></p>
 <img src="./ss/s_1.png" alt="pic1" />
 <img src="./ss/s_2.png" alt="pic2" />
 <img src="./ss/s_3.png" alt="pic3" />
